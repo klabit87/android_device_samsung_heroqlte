@@ -59,6 +59,7 @@ BOARD_HAS_LARGE_FILESYSTEM := true
 TARGET_USERIMAGES_USE_EXT4 := true
 TARGET_USERIMAGES_USE_F2FS := true
 
+RECOVERY_VARIANT := twrp
 # TWRP specific build flags
 TW_THEME := portrait_hdpi
 RECOVERY_SDCARD_ON_DATA := true

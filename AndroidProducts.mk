@@ -1,1 +1,1 @@
-PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_heroqlte.mk
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/lineage_heroqlte.mk
